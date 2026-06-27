@@ -32,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dishav05/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/Dishav05/LEETCODE/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dishav05/LEETCODE/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dishav05/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
