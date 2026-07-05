@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dishav05/LEETCODE/tree/master/0079-word-search) |
 | [0496-next-greater-element-i](https://github.com/Dishav05/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dishav05/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dishav05/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dishav05/LEETCODE/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Dishav05/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/Dishav05/LEETCODE/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dishav05/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dishav05/LEETCODE/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dishav05/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
@@ -123,5 +126,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dishav05/LEETCODE/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dishav05/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Dishav05/LEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
