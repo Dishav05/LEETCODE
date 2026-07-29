@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dishav05/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dishav05/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dishav05/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dishav05/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dishav05/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dishav05/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dishav05/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dishav05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dishav05/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dishav05/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
 |  |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dishav05/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
