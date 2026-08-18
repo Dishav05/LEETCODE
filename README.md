@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dishav05/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dishav05/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dishav05/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dishav05/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/Dishav05/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dishav05/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dishav05/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dishav05/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Dishav05/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dishav05/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
