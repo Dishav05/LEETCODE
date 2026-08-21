@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dishav05/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dishav05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dishav05/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dishav05/LEETCODE/tree/master/0070-climbing-stairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dishav05/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Dishav05/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dishav05/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dishav05/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
