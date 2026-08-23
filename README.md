@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Dishav05/LEETCODE/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dishav05/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dishav05/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Dishav05/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dishav05/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dishav05/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dishav05/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dishav05/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dishav05/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Dishav05/LEETCODE/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dishav05/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dishav05/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dishav05/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dishav05/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1927-sum-game](https://github.com/Dishav05/LEETCODE/tree/master/1927-sum-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dishav05/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dishav05/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dishav05/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dishav05/LEETCODE/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Dishav05/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
